@@ -10,7 +10,7 @@ This application allows a user to create new notes, view old ones, and delete an
 - [Repo License](#Repo-License)
 - [Contributions](#Contributions)
 - [Tests Required](#Tests-Required)
-- [Questions/Contact Me](#questionscontact-me))
+- [Questions/Contact Me](#questionscontact-me)
 
 
 ## How to Install
